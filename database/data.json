@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "username": "Erkinov",
+    "password": "1011",
+    "email": "kimdir@gmail.com",
+    "created_at": "2023-05-29T01:40:57.520Z"
+  },
+  {
+    "id": 2,
+    "username": "AziKo_0107",
+    "password": "pass0107",
+    "email": "nimadir@gmail.com",
+    "created_at": "2023-05-29T01:41:32.549Z"
+  }
+]
